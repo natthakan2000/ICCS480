@@ -1,0 +1,26 @@
+﻿Q1 
+https://youtu.be/sCRWi4UVRRM
+Current through each resistor:
+1. 2Ω = 1.94A
+2. 3Ω = 1.38A
+3. 5Ω = 0.38A
+4. 10Ω = 0.19A
+5. 4Ω = 0.56A
+Voltage drop across each resistor:
+1. 2Ω = 3.89V
+2. 3Ω = 4.13V
+3. 5Ω = 1.89V
+4. 10Ω = 1.89V
+5. 4Ω = 2.25V
+Power loss through each resistor:
+1. 2Ω = 7.51W
+2. 3Ω = 2.30W
+3. 5Ω = 0.70W
+4. 10Ω = 0.40W
+5. 4Ω = 3.10W
+Total resistance from the left of 2Ω to the right of 40Ω:
+Total resistance = 4.13Ω
+Q2.2
+https://youtu.be/QOjS61iZn38
+Q3
+https://youtu.be/uYoJdbEKZgY
